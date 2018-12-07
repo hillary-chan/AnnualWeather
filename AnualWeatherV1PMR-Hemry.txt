@@ -1,0 +1,16 @@
+PROJECT TITLE: AnnualWeatherV1
+PURPOSE OF PROJECT: To store weather information about a designated city over the course of 
+12 months in arrays and allow the user to choose the temperature and precipatation scales as 
+they see fit. 
+VERSION or DATE: 11/30/2018
+AUTHORS: Hillary Hemry 
+
+*************************************** P M R ***************************************
+
+<+s>: I had some trouble with the printf() command, but managed to straighten everything out.
+
+<+s> I did a good job deciding what loops needed to be used in each situation and coming up 
+with the logic behind them. 
+**************************************************************************************
+
+In the future: I’ll work on understanding the new topics and better understanding loops. 
